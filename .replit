@@ -1,0 +1,3 @@
+language = "cpp"
+  run = "g++ main.cpp Atm.cpp Atm.hpp User.cpp User.hpp -o run"
+  
